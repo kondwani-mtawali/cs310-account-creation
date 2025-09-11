@@ -5,7 +5,7 @@
 The goal of this assignment is to write a custom account creation script. The script should use nice defaults, such as:
 - Determining the username from the user's full name
 - Assigning groups based on answers:
-    - As an example, giving wheel access to "admins", but not students
+    - As an example, giving root access to "admins", but not students
 
 Your submission will include:
 
@@ -29,7 +29,7 @@ In this lab, you will:
     2. Set their account groups:
         - User $\to$ No additional groups
         - AV Tech $\to$ "video,audio"
-        - Admin $\to$ "wheel"
+        - Admin $\to$ "root"
 - Print out the choices to the user for confirmation
 - Create the account and tell the user when it is finished.
 
