@@ -1,0 +1,6 @@
+1. Initially the user input is read using the read function/command. I then stored it by simply defining a variable with the
+'$'sign followed by the curly brackets with variable mentioned at the end of read.
+
+2. The username value was created by replacing the space(" ") with a dash("-"). I created another variable Fusername which took the initial username
+I defined and changed all its character to lower case. I'm sure there's a better way to do this, but with the documentation provided that was the most 
+straightforward way in my head. 
